@@ -1,0 +1,7 @@
+# These go into Vercel Project Settings -> Environment Variables
+# (NOT into a .env file in the repo — Vercel has its own secret storage)
+
+BOT_TOKEN=your_bot_token_from_botfather
+BOT_USERNAME=your_bot_username_without_at
+SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_SERVICE_KEY=your_secret_service_role_key
